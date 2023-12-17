@@ -1,0 +1,25 @@
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\bin\Debug\Recipe Organizer.exe.config
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\bin\Debug\Recipe Organizer.exe
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\bin\Debug\Recipe Organizer.pdb
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\obj\Debug\Recipe Organizer.csproj.AssemblyReference.cache
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\obj\Debug\Recipe_Organizer.frmHomePage.resources
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\obj\Debug\Recipe_Organizer.Properties.Resources.resources
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\obj\Debug\Recipe Organizer.csproj.GenerateResource.cache
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\obj\Debug\Recipe Organizer.csproj.CoreCompileInputs.cache
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\obj\Debug\Recipe Organizer.exe
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\obj\Debug\Recipe Organizer.pdb
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\bin\Debug\EntityFramework.dll
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\bin\Debug\EntityFramework.SqlServer.dll
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\bin\Debug\System.Data.SQLite.dll
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\bin\Debug\System.Data.SQLite.EF6.dll
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\bin\Debug\System.Data.SQLite.Linq.dll
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\bin\Debug\EntityFramework.xml
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\bin\Debug\EntityFramework.SqlServer.xml
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\bin\Debug\System.Data.SQLite.xml
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\obj\Debug\Recipe_Organizer.frmAddRecipe.resources
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\obj\Debug\Recipe_Organizer.frmShowRecipes.resources
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\obj\Debug\Recipe Organizer.csproj.CopyComplete
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\bin\Debug\Dapper.dll
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\bin\Debug\Dapper.xml
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\obj\Debug\Recipe_Organizer.frmAddAdvancedRecipe.resources
+C:\_DATA\Thomas More\2023-2024\semester 1\DevOps & Security\Case Study\Recipe Organizer\Recipe Organizer\obj\Debug\Recipe_Organizer.frmShowAdvancedRecipes.resources
