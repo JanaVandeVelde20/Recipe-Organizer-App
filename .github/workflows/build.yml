@@ -1,0 +1,48 @@
+name: Build and Release
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up MSBuild
+      uses: microsoft/setup-msbuild@v1.0.2
+
+    - name: Build
+      run: |
+        msbuild /p:Configuration=Release /p:Platform="Any CPU" /t:Build
+
+    - name: Publish Artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: MyApp
+        path: bin\Release
+
+  release:
+    needs: build
+    runs-on: windows-latest
+
+    steps:
+    - name: Download Artifact
+      uses: actions/download-artifact@v2
+      with:
+        name: MyApp
+        path: build
+
+    - name: Set up .NET
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: '6.0.x'
+
+    - name: Run Application
+      run: |
+        cd build
+        start RecipeOrganizer.exe
